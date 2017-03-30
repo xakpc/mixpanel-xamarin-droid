@@ -33,13 +33,6 @@
   <remove-node path="/api/package[@name='com.mixpanel.android.util']/class[@name='StringUtils']"/>  
 
   <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='AlwaysSubmittableEditText']"/>
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='AlwaysSubmittableEditText']"/>
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='FadingImageView']"/>
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='MiniCircleImageView']"/>
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='SurveyActivity']"/>
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='SurveyChoiceView']"/>
-
-  <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='AlwaysSubmittableEditText']"/>
   <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='CardCarouselLayout']"/>
   <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='FadeOnPressButton']"/>
   <remove-node path="/api/package[@name='com.mixpanel.android.surveys']/class[@name='FadingImageView']"/>

@@ -1,21 +1,3 @@
 ﻿<enum-field-mappings>
-  <!--
-  This example converts the constants Fragment_id, Fragment_name,
-  and Fragment_tag from android.support.v4.app.FragmentActivity.FragmentTag
-  to an enum called Android.Support.V4.App.FragmentTagType with values
-  Id, Name, and Tag.
-  
-  <mapping jni-class="android/support/v4/app/FragmentActivity$FragmentTag" clr-enum-type="Android.Support.V4.App.FragmentTagType">
-    <field jni-name="Fragment_name" clr-name="Name" value="0" />
-    <field jni-name="Fragment_id" clr-name="Id" value="1" />
-    <field jni-name="Fragment_tag" clr-name="Tag" value="2" />
-  </mapping>
-  -->
 
-  <mapping jni-class="com/mixpanel/android/mpmetrics/Tweaks" clr-enum-type="Mixpanel.Android.MpMetrics.TweakValueType">
-    <field jni-name="BOOLEAN_TYPE" clr-name="Boolean" value="1" />
-    <field jni-name="DOUBLE_TYPE" clr-name="Double" value="2" />
-    <field jni-name="LONG_TYPE" clr-name="Long" value="3" />
-    <field jni-name="STRING_TYPE" clr-name="String" value="4" />
-  </mapping>
 </enum-field-mappings>
